@@ -22,12 +22,6 @@
 - :bug: Correction des bugs critiques en cours
 - :rocket: Déploiement prévu pour la semaine prochaine
 
-#### Technologies utilisées
-- ![Icône Web](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/browser.svg) Application Web
-- ![Icône Mobile](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/device-mobile.svg) Application Mobile (Android & iOS)
-- ![Icône Backend](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/server.svg) Serveur Backend
-
-
 #### Guide de Rédaction des Messages de Commit Git pour l’Organisation COSAMED
 
 Ce guide a pour objectif d’harmoniser la manière dont nous rédigeons les messages de commit dans tous les dépôts de notre organisation GitHub. Il s’inspire des bonnes pratiques Udacity, adaptées à notre contexte, pour faciliter la compréhension, la traçabilité et la collaboration au sein de nos équipes.
