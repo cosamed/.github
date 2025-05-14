@@ -1,43 +1,18 @@
-<!-- Début de la grille d’icônes stack -->
-<table>
-  <tr>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="48" height="48" />
-      <br>Python
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="ReactJS" width="48" height="48" />
-      <br>ReactJS
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React Native" width="48" height="48" />
-      <br>React Native
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="100">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" alt="Laravel" width="48" height="48" />
-      <br>Laravel
-    </td>
-    <td align="center" width="100">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/1/1e/NestJS_logo.svg" alt="NestJS" width="48" height="48" />
-      <br>NestJS
-    </td>
-    <td align="center" width="100">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_%28container_engine%29_logo.svg" alt="Docker" width="48" height="48" />
-      <br>Docker
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="100">
-      <img src="https://seeklogo.com/images/J/jupyter-logo-72D1F6D1F5-seeklogo.com.png" alt="Jupyter Notebook" width="48" height="48" />
-      <br>Jupyter Notebook
-    </td>
-    <td></td>
-    <td></td>
-  </tr>
-</table>
-<!-- Fin de la grille d’icônes stack -->
+<!-- Début de la ligne d’icônes stack sans bordure -->
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="48" height="48" style="margin: 0 15px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="ReactJS" width="48" height="48" style="margin: 0 15px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React Native" width="48" height="48" style="margin: 0 15px;" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" alt="Laravel" width="48" height="48" style="margin: 0 15px;" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1e/NestJS_logo.svg" alt="NestJS" width="48" height="48" style="margin: 0 15px;" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_%28container_engine%29_logo.svg" alt="Docker" width="48" height="48" style="margin: 0 15px;" />
+  <img src="https://seeklogo.com/images/J/jupyter-logo-72D1F6D1F5-seeklogo.com.png" alt="Jupyter Notebook" width="48" height="48" style="margin: 0 15px;" />
+</p>
+<p align="center">
+  Python &nbsp;&nbsp;&bull;&nbsp;&nbsp; ReactJS &nbsp;&nbsp;&bull;&nbsp;&nbsp; React Native &nbsp;&nbsp;&bull;&nbsp;&nbsp; Laravel &nbsp;&nbsp;&bull;&nbsp;&nbsp; NestJS &nbsp;&nbsp;&bull;&nbsp;&nbsp; Docker &nbsp;&nbsp;&bull;&nbsp;&nbsp; Jupyter Notebook
+</p>
+<!-- Fin de la ligne d’icônes stack -->
+
 
 
 # Projet COSAMED
