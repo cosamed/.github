@@ -24,7 +24,7 @@
 
 #### Guide de Rédaction des Messages de Commit Git pour l’Organisation COSAMED
 
-Ce guide a pour objectif d’harmoniser la manière dont nous rédigeons les messages de commit dans tous les dépôts de notre organisation GitHub. Il s’inspire des bonnes pratiques Udacity, adaptées à notre contexte, pour faciliter la compréhension, la traçabilité et la collaboration au sein de nos équipes.
+Ce guide a pour objectif d’harmoniser la manière dont nous rédigeons les messages de commit dans tous les dépôts de notre organisation GitHub pour faciliter la compréhension, la traçabilité et la collaboration au sein de nos équipes.
 
 ### Structure du Message de Commit
 Un message de commit se compose de trois parties distinctes, séparées par une ligne vide :
